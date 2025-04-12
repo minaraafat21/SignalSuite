@@ -80,10 +80,6 @@ This toolkit was developed by:
 
 ---
 
-## Acknowledgments
-SignalSuite was developed as part of various academic and research projects to provide users with powerful tools for signal processing and analysis. Special thanks to the contributors and educators who inspired this work.
-
----
 
 ## License
 This toolkit is licensed under the MIT License. See the individual repositories for more details.
